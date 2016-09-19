@@ -1,0 +1,16 @@
+
+- Scheduler rate from IOM Init Call (add frame time to IOMinit)
+
+Discrete IO (dk)
+A429 Block IO
+CRC & FC
+
+More robust implementation
+- table class
+
+
+
+
+
+
+
